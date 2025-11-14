@@ -1,0 +1,9 @@
+#FINTEL-2025-1111-01 Cyber Incident at Financial Institution
+162.128.129.107
+149.40.50.102
+23.234.69.44
+
+#FINTEL-2025-1031-01 Notable Cyber Threat Indicators for Sep - Oct 2025
+159.203.44.105
+216.180.246.172
+45.88.186.32
