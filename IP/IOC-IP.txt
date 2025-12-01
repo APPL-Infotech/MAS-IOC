@@ -1,3 +1,10 @@
+#FINTEL-2025-1128-01 Notable Cyber Threat Indicators for Oct - Nov 2025
+115.231.78.3
+64.62.197.148
+124.198.131.83
+45.81.113.146
+79.124.40.174
+
 #FINTEL-2025-1114-01 Unauthorised Access of Financial Institution’s Cloud Environment
 103.155.232.195
 103.216.223.59
