@@ -1,4 +1,4 @@
-#TEL-2026-0401-02 Notable Cyber Threat Indicators for Feb - Mar 2026
+#2026-0401-02 Notable Cyber Threat Indicators for Feb - Mar 2026
 101.0.104.38
 198.143.149.250
 43.225.196.186
@@ -60,7 +60,7 @@
 188.166.210.146
 208.85.21.30
 
-#FINTEL-2026-0130-01 Notable Cyber Threat Indicators for Dec - Jan 2026
+#2026-0130-01 Notable Cyber Threat Indicators for Dec - Jan 2026
 185.243.5.186
 198.143.149.250
 130.12.180.18
@@ -73,7 +73,7 @@
 193.142.147.209
 204.76.203.27
 
-#FINTEL-2025-1128-01 Notable Cyber Threat Indicators for Oct - Nov 2025
+#2025-1128-01 Notable Cyber Threat Indicators for Oct - Nov 2025
 66.240.205.34
 184.105.247.196
 95.214.55.226
@@ -92,7 +92,7 @@
 79.124.40.174
 
 
-#FINTEL-2025-1114-01 Unauthorised Access of Financial Institution’s Cloud Environment
+#2025-1114-01 Unauthorised Access of Cloud Environment
 103.155.232.195
 103.216.223.59
 109.111.197.159
@@ -129,22 +129,21 @@
 47.107.69.220
 61.4.97.157
 
-
-#FINTEL-2025-1111-01 Cyber Incident at Financial Institution
+#2025-1111-01 Cyber Incident
 162.128.129.107
 149.40.50.102
 23.234.69.44
 
-#FINTEL-2025-1031-01 Notable Cyber Threat Indicators for Sep - Oct 2025
+#2025-1031-01 Notable Cyber Threat Indicators for Sep - Oct 2025
 159.203.44.105
 216.180.246.172
 45.88.186.32
 
-#FINTEL-2025-0930-01 Notable Cyber Threat Indicators for Aug - Sep 2025
+#2025-0930-01 Notable Cyber Threat Indicators for Aug - Sep 2025
 185.94.111.1
 199.204.99.186
 
-#FINTEL-2025-0829-01 Notable Cyber Threat Indicators for Jul - Aug 2025
+#2025-0829-01 Notable Cyber Threat Indicators for Jul - Aug 2025
 115.231.78.3
 117.48.157.75
 79.124.58.198
@@ -167,7 +166,7 @@
 169.150.196.33
 90.191.167.6
 
-#FINTEL-2025-0804-01 Bot-Based DDoS Attack on FI
+#2025-0804-01 Bot-Based DDoS Attack
 68.183.237.178
 34.211.8.228
 101.127.113.149
