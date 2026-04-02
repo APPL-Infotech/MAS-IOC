@@ -5,7 +5,6 @@ woupp.com
 wusetail.com
 aboutsektor.xyz
 023muju.com
-
 https://dynamic-entry.powerappsportals.com/dynamics/
 https://login-web-auth.github.io/red-auth/
 https://westsecure.powerappsportals.com/security/
@@ -21,7 +20,6 @@ https://weds101.siriusmarinesg.com/minerwebmailsecure101/
 https://mweb-ssm.surge.sh
 https://ssmapp.github.io/web
 https://ssmview-group.gitlab.io/ssmview
-
 fsdgh.com
 my.microsoftpersonalcontent.com
 
@@ -43,7 +41,7 @@ servgate.me
 zamstats.me
 zrheblirsy.me
 
-#FINTEL-2025-0930-01 Notable Cyber Threat Indicators for Aug - Sep 2025
+#2025-0930-01 Notable Cyber Threat Indicators for Aug - Sep 2025
 cannonkit.com
 certifiedblob.com
 findcloudflare.com
@@ -52,7 +50,7 @@ updates.highendmark.com
 srv-pc.sogouzhuyin.com
 pitsensation.com
 
-#FINTEL-2025-0829-01 Notable Cyber Threat Indicators for Jul - Aug 2025
+#2025-0829-01 Notable Cyber Threat Indicators for Jul - Aug 2025
 biqdiq.com
 cannonkit.com
 hrl37s.srsnxkkwcxkpkbj.com
@@ -61,7 +59,7 @@ dailyread.site
 domesticannihilate.com
 usrpubtrk.com
 
-#FINTEL-2025-0731-01 Notable Cyber Threat Indicators for Jun - Jul 2025
+#2025-0731-01 Notable Cyber Threat Indicators for Jun - Jul 2025
 ads-house.com
 ecomicrolab.com
 new.weatherplllatform.com
