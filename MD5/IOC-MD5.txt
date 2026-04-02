@@ -1,7 +1,7 @@
 #Advisory 9/3/2026
 04f1f6e2d8a0cfb58c9dab5546bbd13f
 
-#FINTEL-2025-1111-01 Cyber Incident at Financial Institution
+#2025-1111-01 Cyber Incident
 08c93a47ff6bc943b7b0d4db021e50d2
 0d55c101d0f675b2cdc0265b39b06e65
 2ff9b8c950da20a3563a4216c6c985e2
